@@ -1,8 +1,19 @@
-//
-//  LoginViewViewModel.swift
-//  ToDoList-App
-//
-//  Created by Vithushan Logan on 2023-07-26.
-//
 
 import Foundation
+
+class LoginViewViewModel: ObservableObject {
+    @Published var email = ""
+    @Published var password = ""
+    
+    init(){}
+    
+    func login(){
+            
+    }
+    
+    func validate(){
+        
+    }
+    
+
+}

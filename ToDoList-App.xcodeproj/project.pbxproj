@@ -29,6 +29,7 @@
 		723E438A2A70D17500B50A61 /* LoginViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 723E43892A70D17500B50A61 /* LoginViewViewModel.swift */; };
 		723E438C2A70D18700B50A61 /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 723E438B2A70D18700B50A61 /* RegisterViewViewModel.swift */; };
 		723E438E2A70D19F00B50A61 /* ToDoListViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 723E438D2A70D19F00B50A61 /* ToDoListViewViewModel.swift */; };
+		72D367822A7453C000DFB9F2 /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D367812A7453C000DFB9F2 /* TLButton.swift */; };
 		72E83CE62A7105C80064536A /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72E83CE52A7105C80064536A /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
@@ -54,6 +55,7 @@
 		723E43892A70D17500B50A61 /* LoginViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewViewModel.swift; sourceTree = "<group>"; };
 		723E438B2A70D18700B50A61 /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		723E438D2A70D19F00B50A61 /* ToDoListViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListViewViewModel.swift; sourceTree = "<group>"; };
+		72D367812A7453C000DFB9F2 /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 		72E83CE52A7105C80064536A /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -116,6 +118,7 @@
 				723E43752A70D03A00B50A61 /* NewItemView.swift */,
 				723E43772A70D05C00B50A61 /* LoginView.swift */,
 				723E43792A70D07800B50A61 /* RegisterView.swift */,
+				72D367812A7453C000DFB9F2 /* TLButton.swift */,
 				723E437B2A70D09D00B50A61 /* ToDoListView.swift */,
 				72E83CE52A7105C80064536A /* HeaderView.swift */,
 			);
@@ -239,6 +242,7 @@
 				723E43822A70D11F00B50A61 /* MainViewViewModel.swift in Sources */,
 				723E437C2A70D09D00B50A61 /* ToDoListView.swift in Sources */,
 				723E43742A70D01800B50A61 /* ToDoListItemView.swift in Sources */,
+				72D367822A7453C000DFB9F2 /* TLButton.swift in Sources */,
 				723E43842A70D13200B50A61 /* ProfileViewViewModel.swift in Sources */,
 				723E437A2A70D07800B50A61 /* RegisterView.swift in Sources */,
 				723E437E2A70D0B900B50A61 /* User.swift in Sources */,
